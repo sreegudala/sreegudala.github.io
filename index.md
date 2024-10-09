@@ -17,4 +17,4 @@ layout: default
 
 
 
-I grew up in the Houston area and attended The University of Texas at Austin where I obtained my B.S. in Physics with a focus on Nuclear Engineering. I started the CSEM program in Fall 2023. My current research interests lie in the simulation and modeling of advanced nuclear reactors. I work with [Dr. Kevin Clarno](https://www.me.utexas.edu/people/faculty-directory/clarno). You can find out more about our work here [Molten Salt Reactor Initiative](https://sites.utexas.edu/msrdt/).<br>
+I grew up in the Houston area and attended The University of Texas at Austin where I obtained my B.S. in Physics with a focus on Nuclear Engineering. I started the CSEM program in Fall 2023. My current research interests lie in the simulation and modeling of advanced nuclear reactors. I work with [Dr. Kevin Clarno](https://www.me.utexas.edu/people/faculty-directory/clarno). You can find out more about our work here: [Molten Salt Reactor Initiative](https://sites.utexas.edu/msrdt/).<br>
